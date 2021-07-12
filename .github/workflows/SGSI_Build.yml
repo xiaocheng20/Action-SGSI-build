@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bigota.d.miui.com/21.6.30/miui_RAPHAEL_21.6.30_4e96c1fb84_11.0.zip'
+        default: 'https://ip4193322671.mobgslb.tbcache.com/Firmware/Flyme/meizu18/9.0.2.2/cn/20210527005916/d5286e66/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=1aafebcb3c5c37a8e5d05726e154fe0c12e77adfe4322930&ali_redirect_ex_tmining_ts=1626078364&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_RAPHAEL_21.6.30_4e96c1fb84_11.0.zip'
+        default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'flyme'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
