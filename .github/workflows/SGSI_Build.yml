@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://ip4126213807.mobgslb.tbcache.com/Firmware/Flyme/meizu18/9.0.2.2/cn/20210527005916/d5286e66/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=180af4004d7a86ffb4a48c27c2102e45ff871af342c28430&ali_redirect_ex_tmining_ts=1626081094&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100'
+        default: 'https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.2/cn/20210527005916/d5286e66/update.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
